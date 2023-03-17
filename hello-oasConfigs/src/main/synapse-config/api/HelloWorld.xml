@@ -5,7 +5,7 @@
             <!--This is generated API skeleton.-->
             <!--Business Logic Goes Here-->
             <payloadFactory media-type="json">
-                <format>{"Hello" : "Integration"}</format>
+                <format>{"Hello" : "Integrations"}</format>
                 <args/>
             </payloadFactory>
             <loopback/>
