@@ -4,7 +4,7 @@ name : "HelloWorld"
 displayName : "HelloWorld"
 description: "Sample API"
 version: "1.0.0"
-serviceUrl: "http://{host}:{port}/HelloWorld"
+serviceUrl: "http://{host}:{port}/hello"
 definitionType: "OAS3"
 securityType: "BASIC"
 mutualSSLEnabled: false
